@@ -1,0 +1,37 @@
+body {
+ background-color:white;
+ font-family: 'Montserrat', sans-serif;
+ color: rgb(251, 248, 241);
+ font-weight: 200;
+ .img-circle 
+  border-radius: 50%;
+.text-center 
+  text-align: center;
+
+}
+
+h1 {
+ color: rgb(53, 133, 139) ;
+ font-size: 50px;
+ font-weight: 900;
+}
+
+h2 {
+ font-weight:bold;
+ color: rgb(79, 189, 186);
+ font-weight: 800;
+}
+
+a {
+ text-decoration: none;
+ color: rgb(251, 248, 241);
+ font-weight: bold;
+}
+
+a:hover {
+ color: rgb(84, 186, 185);
+}
+
+h4 {
+  font-weight: lighter;
+}
